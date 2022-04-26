@@ -966,6 +966,10 @@ body {
     height: 67px;
     background: #99BAED;
     margin-right: 25px;
+    transition: all 0.3s ease;
+}
+.footer__contacts__facebook:hover {
+    transform: scale(125%);
 }
 .facebook__icon {
     background: url('../images/footer/01.svg') no-repeat center;
@@ -978,6 +982,10 @@ body {
     background: #D3E5FF;
     width: 67px;
     height: 67px;
+    transition: all 0.3s ease;
+}
+.footer__contacts__twitter:hover {
+    transform: scale(125%);
 }
 .twitter__icon {
     background: url('../images/footer/02.svg') no-repeat center;
@@ -989,6 +997,10 @@ body {
     background: #D3E5FF;
     width: 67px;
     height: 67px;
+    transition: all 0.3s ease;
+}
+.footer__contacts__google:hover {
+    transform: scale(125%);
 }
 .google__icon {
     background: url('../images/footer/03.svg') no-repeat center;
